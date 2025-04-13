@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomas\\source\\repos\\Farma-Joko\\Farma-Joko\\Farma-Joko.csproj": {}
+    "C:\\Users\\Tomas\\Source\\Repos\\Farma-Joko\\Farma-Joko\\Farma-Joko.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomas\\source\\repos\\Farma-Joko\\Farma-Joko\\Farma-Joko.csproj": {
+    "C:\\Users\\Tomas\\Source\\Repos\\Farma-Joko\\Farma-Joko\\Farma-Joko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\Farma-Joko\\Farma-Joko\\Farma-Joko.csproj",
+        "projectUniqueName": "C:\\Users\\Tomas\\Source\\Repos\\Farma-Joko\\Farma-Joko\\Farma-Joko.csproj",
         "projectName": "Farma-Joko",
-        "projectPath": "C:\\Users\\Tomas\\source\\repos\\Farma-Joko\\Farma-Joko\\Farma-Joko.csproj",
+        "projectPath": "C:\\Users\\Tomas\\Source\\Repos\\Farma-Joko\\Farma-Joko\\Farma-Joko.csproj",
         "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomas\\source\\repos\\Farma-Joko\\Farma-Joko\\obj\\",
+        "outputPath": "C:\\Users\\Tomas\\Source\\Repos\\Farma-Joko\\Farma-Joko\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
