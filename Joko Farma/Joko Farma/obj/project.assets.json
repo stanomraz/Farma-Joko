@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\Joko Farma\\Joko Farma\\Joko Farma.csproj",
+      "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\Farma-Joko\\Joko Farma\\Joko Farma\\Joko Farma.csproj",
       "projectName": "Joko Farma",
-      "projectPath": "C:\\Users\\Tomas\\source\\repos\\Joko Farma\\Joko Farma\\Joko Farma.csproj",
+      "projectPath": "C:\\Users\\Tomas\\source\\repos\\Farma-Joko\\Joko Farma\\Joko Farma\\Joko Farma.csproj",
       "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomas\\source\\repos\\Joko Farma\\Joko Farma\\obj\\",
+      "outputPath": "C:\\Users\\Tomas\\source\\repos\\Farma-Joko\\Joko Farma\\Joko Farma\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
